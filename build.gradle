@@ -1,0 +1,26 @@
+group 'nii'
+version '1.0-SNAPSHOT'
+
+apply plugin: 'java'
+
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testCompile group: 'junit', name: 'junit', version: '4.11'
+
+    compile group: 'us.codecraft', name: 'webmagic-core', version: '0.7.3'
+    // https://mvnrepository.com/artifact/us.codecraft/webmagic-extension
+    compile group: 'us.codecraft', name: 'webmagic-extension', version: '0.7.3'
+
+    // https://mvnrepository.com/artifact/com.huaban/jieba-analysis
+    compile group: 'com.huaban', name: 'jieba-analysis', version: '1.0.2'
+
+    compile group: 'commons-io', name: 'commons-io', version: '2.6'
+
+    compile group: 'org.apache.lucene', name: 'lucene-core', version: '3.6.0'
+    compile group: 'org.apache.lucene', name: 'lucene-queryparser', version: '3.6.0'
+
+}

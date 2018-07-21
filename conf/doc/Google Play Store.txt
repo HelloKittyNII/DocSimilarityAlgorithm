@@ -1,0 +1,1 @@
+温馨 提示 PLAY 商店 需要 依赖 GMS 不然 安装 应用 过程 会 出现 闪退 Google 已经 将 AndroidMarket 电子市场 统一 升级 更名 为 GooglePlayStore 并且 启用 了 httpsplaygooglecom 全新 域名 作为 网页 版 电子市场 的 主页 同时 Android 手机 的 官方 电子市场 客户端 也 进行 了 升级 并 更名 为 Play 商店 PlayStore 现在 不用 等待 自动 升级 了 并且 无需 ROOT 权限 但是 需要 系统 为 Android22 以上 版本 并 开启 未知 来源 应用 安装 选项
