@@ -1,6 +1,8 @@
 ## 文本相似度算法
 基于Lucene3.5版本、TF-IDF、余弦相似实现的文本相似度算法。
 
+详细介绍《[基于Lucene、TF-IDF、余弦相似性实现长文本相似度检测](https://blog.csdn.net/u010889616/article/details/81149122)》
+
 ## 样本库提取
 使用webmagic爬取华为应用市场应用的描述信息，当做样本。
 
