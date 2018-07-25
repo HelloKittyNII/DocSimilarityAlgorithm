@@ -112,7 +112,7 @@ public class Main
                 termValue += termEntry.getValue() * termEntry.getValue();
             }
 
-            similarityMap.put(docName,acrossValue/(termValue * searchValue));
+            similarityMap.put(docName,acrossValue/(Math.sqrt(termValue) * Math.sqrt(searchValue)));
         }
 
         return similarityMap;
